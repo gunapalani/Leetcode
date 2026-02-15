@@ -1,6 +1,6 @@
 
-let number = [3, 3];
-let target = 6;
+let number = [2, 7, 11, 15];
+let target = 9;
 
 
 for (let i = 0; i <= number.length; i++) {
